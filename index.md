@@ -109,5 +109,5 @@
 	Feel free to contact me at justinh9@telus.net!
 	
 	<p>
-  *<a href="/Day 3-Counting.pdf">Counting</a> [Easy AIME - Mid USAMO]
+  *<a href="/Day 3.0-Counting.pdf">Counting</a> [AMC Level]
 </p>
