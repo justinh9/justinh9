@@ -1,3 +1,7 @@
+theme: jekyll-theme-cayman
+title: Welcome to Justin's website!
+description: I am a high school student and I love mathematics!
+
 <p>
 	I'm a grade 11 student at Hugh McRoberts Secondary School. I'm most passionate about math contests and olympiads but I also enjoy learning chemistry and physics.
 </p>
