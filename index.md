@@ -1,12 +1,13 @@
 
 <p>
-	I'm a grade 11 student at Hugh McRoberts Secondary School. I'm most passionate about math contests and olympiads but I also enjoy learning chemistry and physics.
+	I'm a grade 11 student at Hugh McRoberts Secondary School and also a concurrent student studying mathematics at the University of British Columbia. I'm most passionate about math contests/olympiads but I also enjoy learning chemistry, physics and a myriad of other subjects. 
 </p>
 <h2> Hobbies </h2>
 <ul>
-	<li> I love to solve math olympiad problems. </li>
+	<li> I love to solve math olympiad problems </li>
 	<li> I like learning university level chemistry and physics </li>
-	<li> I like debating and attending Model United Nations Conferences. </li>
+	<li> I enjoy playing and learning chess. Visit my profile <a href="https://https://www.chess.com/member/justin124810">here</a> </li>
+	<li> I take pleasure in debating and attending Model United Nations Conferences </li>
 </ul>
 <h2> Interests </h2>
 <ul>
@@ -18,6 +19,7 @@
 <ul>
 	<li> My favorite math olympiad subject is geometry. </li>
 	<li> My favorite color is blue. </li>
+	<li> I play volleyball, basketball and tennis</li>
 	<li> I tend to have a lot of tabs open on my browser (88 at the moment).</li>
 </ul>
 <h2> Impossible List </h2>
@@ -102,3 +104,6 @@
     <td>Currently at 55 words per minute</td>
   </tr>
 </table>
+
+<p>
+	Feel free to contact me at justinh9@telus.net!
