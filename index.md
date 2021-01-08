@@ -118,7 +118,7 @@
     <td>Skills</td>
     <td>Currently at 55 words per minute</td>
   </tr>
-</table>
+
 
 <p>
 	Feel free to contact me at justinh9@telus.net!
