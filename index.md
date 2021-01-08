@@ -1,11 +1,11 @@
----
+
 layout: cayman-layout
 title: About Me
 description: For you to get to know me better
 header-bg-color-1: '#f2590d'
 header-bg-color-2: '#f2930d'
 accent: '#f2800d'
----
+
 <p>
 	I'm a grade 11 student at Hugh McRoberts Secondary School. I'm most passionate about math contests and olympiads but I also enjoy learning chemistry and physics.
 </p>
@@ -18,7 +18,7 @@ accent: '#f2800d'
 <h2> Interests </h2>
 <ul>
 	<li> Anything math-related. For example, outside of contests, I am eager to learn about analysis and algebra. </li>
-	<li> </li>
+	<li> Application of mathematics in other fields such as statistics and risk management. </li>
 	
 </ul>
 <h2> Fun Facts About Myself </h2>
@@ -48,7 +48,7 @@ accent: '#f2800d'
     <td>Qualify for USAMO</td>
     <td></td>
     <td>Math, Contests</td>
-    <td>/td>
+    <td></td>
   </tr>
   <tr>
     <td>Qualify for IMO</td>
@@ -92,9 +92,9 @@ accent: '#f2800d'
   </tr>
   <tr>
     <td>Get a math article published</td>
-    <td>Done!</td>
+    <td></td>
     <td>Math</td>
-    <td>It's published in the 2017 May and June issues of <a href="https://cms.math.ca/crux/">Crux Mathematicorum</a></td>
+    <td></td>
   </tr>
   <tr>
     <td>Be in the news</td>
