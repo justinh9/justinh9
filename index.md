@@ -34,20 +34,35 @@
     <th style="width: 30%">Extra Info</th>
   </tr>
   <tr>
-    <td>Qualify for CMO</td>
+    <td>Qualify for Canadian Math Olympiad</td>
+    <td>Active</td>
+    <td>Math, Contests</td>
     <td></td>
+  </tr>
+
+<tr>
+    <td>Score 120+ on AMC 12</td>
+    <td>Active</td>
+    <td>Math, Contests</td>
+    <td></td>
+ </tr>
+ 
+ <tr>
+    <td>Score 11+ on AIME</td>
+    <td>Active</td>
+    <td>Math, Contests</td>
+    <td></td>
+ </tr>
+	
+  <tr>
+    <td>Qualify for United States Math Olympiad</td>
+    <td>Active</td>
     <td>Math, Contests</td>
     <td></td>
   </tr>
   <tr>
-    <td>Qualify for USAMO</td>
-    <td></td>
-    <td>Math, Contests</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Qualify for IMO</td>
-    <td></td>
+    <td>Qualify for International Math Olympiad</td>
+    <td>Active</td>
     <td>Math, Contests</td>
     <td></td>
   </tr>
@@ -64,7 +79,7 @@
     <td></td>
 	
 <tr>
-	<td>BCCO Winner</td>
+	<td>British Columbia Chemistry Olympiad Winner</td>
 	<td>Active</td>
 	<td>Chemistry</td>
 	<td></td>
@@ -87,13 +102,13 @@
   </tr>
   <tr>
     <td>Get a math article published</td>
-    <td></td>
+    <td>Active</td>
     <td>Math</td>
     <td></td>
   </tr>
   <tr>
     <td>Be in the news</td>
-    <td></td>
+    <td>Active</td>
     <td>Misc</td>
     <td></td>
   </tr>
