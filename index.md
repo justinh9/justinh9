@@ -122,6 +122,8 @@
 ![AoPS](https://user-images.githubusercontent.com/77130107/104035705-5006f480-5187-11eb-87e4-0174d02a89b8.jpg)
 ![linkedin](https://user-images.githubusercontent.com/77130107/104035747-58f7c600-5187-11eb-82ee-422d6b09e8a9.png)
 <p>
-[1]: https://artofproblemsolving.com/community/user/516361
-[2]: https://www.linkedin.com/in/justin-hua-20231b1a4/
-</p>
+	
+ <ol>
+<li> https://artofproblemsolving.com/community/user/516361
+<li> https://www.linkedin.com/in/justin-hua-20231b1a4/
+</ol>
