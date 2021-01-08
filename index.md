@@ -68,7 +68,7 @@ accent: '#f2800d'
     <td>Math, Contests</td>
     <td></td>
 	
-	  <tr>
+<tr>
 	<td>BCCO Winner</td>
 	<td>Active</td>
 	<td>Chemistry</td>
@@ -76,7 +76,7 @@ accent: '#f2800d'
 	
   </tr>
   
-    <tr>
+<tr>
 	<td>Provincial CHEM Camp Qualifier</td>
 	<td>Active</td>
 	<td>Chemistry</td>
