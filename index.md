@@ -1,8 +1,8 @@
----
+
 layout: cayman-layout
 title: About Me
 description: For you to get to know me better
----
+
 
 <p>
 	I'm a grade 11 student at Hugh McRoberts Secondary School. I'm most passionate about math contests and olympiads but I also enjoy learning chemistry and physics.
