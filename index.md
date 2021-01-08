@@ -1,10 +1,8 @@
-
+---
 layout: cayman-layout
 title: About Me
 description: For you to get to know me better
-header-bg-color-1: '#f2590d'
-header-bg-color-2: '#f2930d'
-accent: '#f2800d'
+---
 
 <p>
 	I'm a grade 11 student at Hugh McRoberts Secondary School. I'm most passionate about math contests and olympiads but I also enjoy learning chemistry and physics.
