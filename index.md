@@ -6,8 +6,8 @@
 <ul>
 	<li> I love to solve math olympiad problems </li>
 	<li> I like learning university level chemistry and physics </li>
-	<li> I enjoy playing and learning chess. Visit my profile <a href="https://https://www.chess.com/member/justin124810">here</a> </li>
-	<li> I take pleasure in debating and attending Model United Nations Conferences </li>
+	<li> I enjoy playing and learning chess. Visit my profile <a href="https://www.chess.com/member/justin124810">here</a> </li>
+	<li> I take pleasure in debating and attending Model United Nations conferences </li>
 </ul>
 <h2> Interests </h2>
 <ul>
