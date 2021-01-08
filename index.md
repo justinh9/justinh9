@@ -107,3 +107,7 @@
 
 <p>
 	Feel free to contact me at justinh9@telus.net!
+	
+	<p>
+  *<a href="/Day 3-Counting.pdf">Counting</a> [Easy AIME - Mid USAMO]
+</p>
