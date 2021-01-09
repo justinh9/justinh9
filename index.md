@@ -1,6 +1,6 @@
 
 <p>
-	I'm a grade 11 student at Hugh McRoberts Secondary School and also a concurrent student studying mathematics at the University of British Columbia. I'm most passionate about math contests/olympiads but I also enjoy learning chemistry, physics and a myriad of other subjects. 
+	I'm a grade 11 student at Hugh McRoberts Secondary School and also a concurrent student studying mathematics at the <a href="https://www.ubc.ca/">University of British Columbia</a>. I'm most passionate about math contests/olympiads but I also enjoy learning chemistry, physics and a myriad of other subjects. 
 </p>
 <h2> Hobbies </h2>
 <ul>
@@ -18,7 +18,8 @@
 <h2> Fun Facts About Myself </h2>
 <ul>
 	<li> My favorite math olympiad subject is geometry. </li>
-	<li> My favorite color is blue. </li>
+	<li> I am enrolled in a math olympiad program called <a href="https://web.evanchen.cc/otis.html"> OTIS </a></li>
+	<li> I don't have a favorite color; all colors are splendid </li>
 	<li> I play volleyball, basketball and tennis</li>
 	<li> I tend to have a lot of tabs open on my browser (88 at the moment).</li>
 </ul>
@@ -44,7 +45,7 @@
     <td>Score 120+ on AMC 12</td>
     <td>Active</td>
     <td>Math, Contests</td>
-    <td></td>
+    <td> Contest date is February 4th! </td>
  </tr>
  
  <tr>
