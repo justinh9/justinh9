@@ -1,11 +1,4 @@
-layout: cayman-layout
-title: Math
-description: Some math handouts
----
-title: Math 
-layout: cayman-layout
-filename: math.md
---- 
+
 
 <p>
   Here are some of the slides that I created for my high school's math circle. As of right now, all the handouts are beginner level but more intermediate ones will be coming soon!
